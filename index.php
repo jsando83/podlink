@@ -7,7 +7,7 @@
       <title>Alamo Family Foot &amp;  Ankle Care San Antonio's Podiatrists</title>
       <meta name="description" content="We are the premiere podiatrist in San Antonio and Boerne, Alamo Family Foot &amp;Ankle Care offers services from four state of the art Podiatry clinics."/>
       <meta charset="utf-8"/>
-     
+
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 
@@ -47,11 +47,11 @@
 
       <!-- Bootstrap -->
       <link href="css/bootstrap.css" rel="stylesheet">
-      
-     
-      
+
+
+
       <link href="css/mystyles.css" rel="stylesheet">
-      
+
 
        <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -81,7 +81,7 @@
 
 
 
-     <?php /* include 'components/carousel.php'; */ ?>  
+     <?php /* include 'components/carousel.php'; */ ?>
 
 
 
@@ -104,7 +104,7 @@
               </div> <!-- tools -->
             </div><!-- col -->
           </section><!-- row -->
-        </div><!-- container--> 
+        </div><!-- container-->
 
       </section> <!-- toolbar -->
 
@@ -132,21 +132,21 @@
               </div> <!-- tools -->
             </div><!-- col -->
           </section><!-- row -->
-        </div><!-- container--> 
+        </div><!-- container-->
 
       </section> <!-- toolbar -->
 
 
 <div class="row">
-  <div style="background: #e5e5e5;">    
+  <div style="background: #e5e5e5;">
 
 
 
 
       <section class="container">
-       
 
-       
+
+
 
 
           <!-- col 1 -->
@@ -156,9 +156,9 @@
               <section class="enlarge">
                 <span class="glyphicons lightbulb"></span>
               </section> <!-- enlarge -->
-              
-              <h2>Knowledge</h2>
-              
+
+              <h2>KNOWLEDGE IS POWER</h2>
+
 
               <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified Podiatrist are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages.</p>
             </div> <!-- center-->
@@ -171,12 +171,12 @@
               <section class="enlarge">
                 <span class="glyphicons history"></span>
               </section> <!-- enlarge -->
-              
+
               <h2>Experience</h2>
-              
+
 
               <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from four state of the art Podiatry clinics in the San Antonio and Boerne.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
-            </div> <!-- center--> 
+            </div> <!-- center-->
 
           </section><!-- col col-lg -->
 
@@ -187,16 +187,16 @@
               <section class="enlarge">
                 <span class="glyphicons check"></span>
               </section> <!-- enlarge -->
-              
+
               <h2>Results</h2>
-              
+
 
               <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasizing EBM and applying treatments backed by scientific studies, patients can achieve <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/"> superior outcomes </a> in shorter time. <p>
               </div> <!-- center-->
 
             </section><!-- col col-lg -->
 
-         
+
 
         </section> <!-- container -->
 
@@ -204,8 +204,8 @@
  <div class="layoutspacing"></div>
       </section><!-- container -->
     </section>
-   
-    </div><!-- style --> 
+
+    </div><!-- style -->
     </div><!-- row -->
 
 <div class="container">
@@ -220,9 +220,9 @@
 <section class="container">
       <div class="layoutspacing"></div>
      <?php include 'components/carouselReviews.php'; ?>
-     <div class="lead col-lg-6 center"> 
+     <div class="lead col-lg-6 center">
       <div class="layoutspacing2"></div>
-      <p>We consistently strive to have satisfied patients and excellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>      
+      <p>We consistently strive to have satisfied patients and excellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>
     </div><!-- lead -->
     <div class="col-lg-6 hidden-xs">
       <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
@@ -232,11 +232,11 @@
     <div class="visible-xs">
       <div id="piechart" style=""> </div><!-- piechart -->
 
-    </div><!-- col -->  
+    </div><!-- col -->
 
-    </section>  <!-- container -->     
+    </section>  <!-- container -->
 
-    
+
 </div>
 </div>
 
@@ -244,12 +244,12 @@
 
 <!-- start section -->
 <div class="row">
-  <div style="background: #e5e5e5;"> 
+  <div style="background: #e5e5e5;">
     <div class="center">
               <section class="enlarge">
                 <span class="glyphicons compass"></span>
             </section> <!-- enlarge -->
-              
+
 
 <div class="container">
 
@@ -257,18 +257,18 @@
     <div class="layoutspacing"></div>
    <section class="col col-lg-3 col-md-3 col-sm-3">
     <img src="images/huebner/huebnerfront.jpg" class="img-responsive center">
-   
+
     <?php include 'components/medcenteraddress.php'; ?>
-    <a href="resources/tourmc.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
-     
+    <a href="resources/tourmc.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a>
+
   </section>
 
 
   <section class="col col-lg-3 col-md-3 col-sm-3">
   <img src="images/stoneoak/stoneoakfront.jpg" class="img-responsive center">
   <?php include 'components/stoneoakaddress.php'; ?>
-  <a href="resources/tourso.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
-   
+  <a href="resources/tourso.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a>
+
   </section>
 
   <section class="col col-lg-3 col-md-3 col-sm-3">
@@ -283,7 +283,7 @@
   <?php include 'components/boerneaddress.php'; ?>
 
   </section>
-  
+
 </div> <!-- center -->
     <div class="layoutspacing"></div>
 </div> <!-- container -->
@@ -295,74 +295,74 @@
 
 <div class="layoutspacing"></div>
 
-  
-  
 
 
 
-    
-   
-    
+
+
+
+
+
 
     <?php /*include 'components/picturelineup.php'; */?>
 
-   
+
 
    <div class="row">
 
     <div class="container">
-       
-      
+
+
       <h2 class="center">Alamo Family Foot & Ankle Care - a name you can count on</h2>
 
-      
+
 
       <div class="col col-lg-7 col-md-7">
             <img src="/images/doctors.png" alt="San Antonio Podiatrist Foot Doctor" itemprop="photo" class="img img-responsive" alt="">
-         
+
         </div><!-- photo-->
-        
 
 
 
 
-        
-      
+
+
+
 
       <div class="col col-lg-5 col-md-5 ">
       <div class="center">
-            
+
            <a href="/about.php"><button type="button" class="btn btn-block">About Us</button></a>
           <span style="padding: 10px"><a href="../pathology.php"><button type="button" class="btn btn-block">Common Disorders</button></a></span>
 
           <a href="#"><button type="button" class="btn btn-block">Treatments</button></a>
-          <span style="padding: 10px"><a href="../resources/faq.php"><button type="button" class="btn btn-block">FAQ</button> <span>    
+          <span style="padding: 10px"><a href="../resources/faq.php"><button type="button" class="btn btn-block">FAQ</button> <span>
           <span style="padding: 10px"><a href="/contact.php"><button type="button" class="btn btn-block">Request An Appointment</button></a></span>
-      
 
 
 
-        
+
+
       </div><!-- col-lg-4 -->
-      
+
 
 
 
     </div><!-- container -->
 
 </div>  <!-- row -->
-    
 
 
-  <div class="layoutspacing2"></div>  
+
+  <div class="layoutspacing2"></div>
 
   <section class="container page-header">
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
-          
+
             <img src="/images/triad_blue.jpg" class="img img-responsive" alt="patient team workß">
-          
+
  </div><!-- center -->
 </div><!-- col 4 -->
 
@@ -376,9 +376,9 @@ The physicians and staff of the Alamo Family Foot & Ankle Care are dedicated to 
 <section class="container page-header">
 
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-<p>Our podiatrist are board certified* in advanced reconstructive techniques in foot and ankle surgery. 
-Their fellowship training includes trauma and deformity reconstruction, and they routinely attend the most 
-advanced and prestigious continuing education opportunities to expand their expertise. Collectively they share passion for 
+<p>Our podiatrist are board certified* in advanced reconstructive techniques in foot and ankle surgery.
+Their fellowship training includes trauma and deformity reconstruction, and they routinely attend the most
+advanced and prestigious continuing education opportunities to expand their expertise. Collectively they share passion for
 therapies and treatment that optimize patient outcomes, and individually they often are called upon by colleagues and
  medical schools alike to share their expertise and experience.</p> <span class="small">*Drs. Chaney, Perez and Strash are board certified by the American Board of Foot & Ankle Surgery</span>
 </div><!-- col-lg-8 -->
@@ -387,9 +387,9 @@ therapies and treatment that optimize patient outcomes, and individually they of
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
     <div class="center">
           <section class="iconsizing" style="margin-top:15%;">
-            
+
           <img src="/images/carousel/operating.jpg" class="img img-responsive" alt="sugery of the foot">
-            
+
           </section> <!-- iconsizing -->
 
     </div><!-- center -->
@@ -409,12 +409,12 @@ therapies and treatment that optimize patient outcomes, and individually they of
 <div class="center">
           <section class="iconsizing" style="margin-top:15%;">
             <img src="/images/patientteam.jpg" class="img img-responsive" alt="patient doctor team">
-          </section>  
-          
+          </section>
+
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Although technological advancements are paramount to their success, our podiatrist make 
+Although technological advancements are paramount to their success, our podiatrist make
 teamwork and integrity the cornerstones of their practice. At Alamo Family Foot & Ankle Care, we believe that a doctor and patient become a team for treating an individual’s feet. Our podiatrist spend most of their time listening to understand your concerns and responding with the best treatment options for you. With the help of our professional staff, they also follow up to make sure that generally pain is relieved, problems are resolved and your health improves.
 </div><!-- col-lg-8 -->
 
@@ -427,7 +427,7 @@ teamwork and integrity the cornerstones of their practice. At Alamo Family Foot 
 <section class="container">
 
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Our modern and efficient clinics offer the latest in cutting edge podiatric technology, including MRI, ultrasound and digital xray- 
+Our modern and efficient clinics offer the latest in cutting edge podiatric technology, including MRI, ultrasound and digital xray-
 giving our patients a full spectrum of treatment choices to maximize and speed their recovery.  We also want our patients to be informed about podiatric problems and treatments, because informed patients make better decisions about their health and well being. That is why we’ve included an extensive section on this web site covering the full array of topics associated with podiatry and podiatric diagnoses and treatments.
 </div><!-- col-lg-8 -->
 
@@ -443,7 +443,7 @@ giving our patients a full spectrum of treatment choices to maximize and speed t
     <!-- footer -->
 
 
-    <?php include 'components/footer.php'; ?>        
+    <?php include 'components/footer.php'; ?>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -451,10 +451,10 @@ giving our patients a full spectrum of treatment choices to maximize and speed t
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
-   
+
     <script src="js/bootstrap-image-gallery.js1"></script>
-   
-     
+
+
 
 
 
